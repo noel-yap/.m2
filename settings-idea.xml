@@ -1,0 +1,3 @@
+<settings>
+  <localRepository>${M2_REPO}</localRepository>
+</settings>
